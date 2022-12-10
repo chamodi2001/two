@@ -1,0 +1,23 @@
+<html>
+<head> <title>Inline CSS</title>
+<style>
+body{
+  background-image:url("nsbm logo.png");
+  background-repeat: no-repeat; 
+  //background-color:black;
+
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
+}
+</style>
+ </head>
+<p>The Faculty of Computing (SOC) provides world class education and training in Computing and Information Technology, both at undergraduate as well as post graduate levels. <br>
+SOC offers University Grants Commission’s approved degree programmes in multiple disciplines. It has also partnered with the world top ranking universities, University College Dublin in Ireland, University of Plymouth in UK and Victoria University in Australia to provide undergraduates with highly recognized International Degrees. The innovative teaching methods along with the latest state of the art equipment form the perfect blend that motivates our students to do their best and reach their goals with ease.
+</p>
+
+
+<body>
+
+</body>
+</html>
